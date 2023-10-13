@@ -1,7 +1,7 @@
 # cazanarotti.github.io
-Como colocar um projeto de site na internet </p>
-Usar um projeto Bootstrap </p>
-html </p>
-css </p>
-java script </p>
+Analista de dados Jr. </p>
+Relatórios em Power BI </p>
+Banco de dados SQL </p>
+Office 365 </p>
+Automação Python </p>
 Contatar: carlos@zanarotti.com </p>
